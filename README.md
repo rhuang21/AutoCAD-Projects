@@ -1,2 +1,2 @@
 # Design-Projects
-These are all the projects I've made 
+Project made during my time in Civil Engineering
